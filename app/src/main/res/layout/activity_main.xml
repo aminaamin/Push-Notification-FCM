@@ -15,7 +15,17 @@
         android:text="FireBase Push Notification"
         android:textSize="16sp"
         android:textColor="@android:color/black" />
-
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:gravity="left"
+        android:text="sdsds"
+        android:textSize="16sp"
+        android:id="@+id/tv_resp_fb"
+        android:layout_marginLeft="16dp"
+        android:layout_marginTop="10dp"
+        android:textColor="@android:color/black" />
 
 
    <!-- <EditText
